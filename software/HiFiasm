@@ -1,0 +1,1 @@
+hifiasm -t64 --ont -o ONT.asm ONT.read.fastq.gz
